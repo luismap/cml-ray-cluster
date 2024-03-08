@@ -10,3 +10,4 @@ pydantic[email]
 accelerate
 sentence-transformers==2.4.0
 bitsandbytes
+protobuf==4.25.3
