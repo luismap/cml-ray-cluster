@@ -1,0 +1,12 @@
+#core api
+vllm==0.2.7
+ray[default]==2.9.2
+torch==2.1.2
+#pydantic
+pydantic==2.6.1
+pydantic-core==2.16.2
+pydantic-settings==2.1.0
+pydantic[email]
+accelerate
+sentence-transformers==2.4.0
+bitsandbytes
