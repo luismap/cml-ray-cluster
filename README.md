@@ -14,7 +14,7 @@ worker_ram_memory=16
 
 2. add the following cml runtime. (If you would like to use your own image. Refer to Runtime section for further steps [tba])
 
-**luismap/cml:pbjcuda-V2.0**
+**luismap/cml:pbjcuda12-v2.0**
 
 3. install requirements
 ```bash
